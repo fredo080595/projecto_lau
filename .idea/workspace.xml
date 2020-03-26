@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c51532e-e0d5-44c4-a59b-2f87181ecd22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contenido-tematico.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agenda-actividades.html" beforeDir="false" afterPath="$PROJECT_DIR$/agenda-actividades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contenido-tematico.html" beforeDir="false" afterPath="$PROJECT_DIR$/contenido-tematico.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forma-evaluacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/forma-evaluacion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduccion.html" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion.html" afterDir="false" />
@@ -65,7 +64,8 @@
       <updated>1585115220442</updated>
       <workItem from="1585115221719" duration="3114000" />
       <workItem from="1585152654921" duration="11573000" />
-      <workItem from="1585185862733" duration="1103000" />
+      <workItem from="1585185862733" duration="1455000" />
+      <workItem from="1585192227907" duration="973000" />
     </task>
     <servers />
   </component>
@@ -77,10 +77,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585156970680" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585152657076">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1585187028414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585152657076" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585187028414" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585192257719">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585192257719" />
     <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585186812726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
