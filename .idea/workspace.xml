@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c51532e-e0d5-44c4-a59b-2f87181ecd22" name="Default Changelist" comment="" />
+    <list default="true" id="5c51532e-e0d5-44c4-a59b-2f87181ecd22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contenido-tematico.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agenda-actividades.html" beforeDir="false" afterPath="$PROJECT_DIR$/agenda-actividades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forma-evaluacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/forma-evaluacion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduccion.html" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metodologia.html" beforeDir="false" afterPath="$PROJECT_DIR$/metodologia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/propositoAprendizaje.html" beforeDir="false" afterPath="$PROJECT_DIR$/propositoAprendizaje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recomendaciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/recomendaciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/referencias.html" beforeDir="false" afterPath="$PROJECT_DIR$/referencias.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidades_competencia.html" beforeDir="false" afterPath="$PROJECT_DIR$/unidades_competencia.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +25,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZbkXYpxzJOwtAQrjSTogKU3zyI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -47,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585115220442</updated>
       <workItem from="1585115221719" duration="3114000" />
-      <workItem from="1585152654921" duration="11519000" />
+      <workItem from="1585152654921" duration="11573000" />
+      <workItem from="1585185862733" duration="1103000" />
     </task>
     <servers />
   </component>
@@ -63,13 +81,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585152657076" />
-    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585166319446">
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585186812726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585166319446" />
-    <state x="315" y="61" width="736" height="606" key="find.popup" timestamp="1585171589644">
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585186812726" />
+    <state x="315" y="61" width="736" height="606" key="find.popup" timestamp="1585186617793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="315" y="61" width="736" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585171589644" />
+    <state x="315" y="61" width="736" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585186617793" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585186494169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585186494169" />
   </component>
 </project>
